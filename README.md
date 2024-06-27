@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+* Estou estudando no alura
+* * Meu nome é Ruan e sou o 10 e faixa dp 3° A
 <!--
 **RuanAngelo06/Ruanangelo06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
